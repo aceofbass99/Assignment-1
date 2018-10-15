@@ -1,0 +1,9 @@
+Please::=Give Give
+Give::=Me Me A A Check+
+Me::=This This This This This This A This This A This This This|On This On This On This On This|A A A A A A A A A A A A A
+A::=Check+|Higher) (Or
+Check+::=Higher) On This|(Or (Or|Higher) Higher)
+(Or::=On On|This On This|This This On
+Higher)::=(Or Check+|On On On On|This
+On::=Marty
+This::=Stepp
