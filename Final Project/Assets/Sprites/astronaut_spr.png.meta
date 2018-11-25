@@ -1,0 +1,1265 @@
+fileFormatVersion: 2
+guid: d32b6b9d4a12248ff96962c236ccd843
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ezgif.com-gif-maker_0
+    21300002: ezgif.com-gif-maker_1
+    21300004: ezgif.com-gif-maker_2
+    21300006: ezgif.com-gif-maker_3
+    21300008: ezgif.com-gif-maker_4
+    21300010: ezgif.com-gif-maker_5
+    21300012: ezgif.com-gif-maker_6
+    21300014: ezgif.com-gif-maker_7
+    21300016: ezgif.com-gif-maker_8
+    21300018: ezgif.com-gif-maker_9
+    21300020: ezgif.com-gif-maker_10
+    21300022: ezgif.com-gif-maker_11
+    21300024: ezgif.com-gif-maker_12
+    21300026: ezgif.com-gif-maker_13
+    21300028: ezgif.com-gif-maker_14
+    21300030: ezgif.com-gif-maker_15
+    21300032: ezgif.com-gif-maker_16
+    21300034: ezgif.com-gif-maker_17
+    21300036: ezgif.com-gif-maker_18
+    21300038: ezgif.com-gif-maker_19
+    21300040: ezgif.com-gif-maker_20
+    21300042: ezgif.com-gif-maker_21
+    21300044: ezgif.com-gif-maker_22
+    21300046: ezgif.com-gif-maker_23
+    21300048: ezgif.com-gif-maker_24
+    21300050: ezgif.com-gif-maker_25
+    21300052: ezgif.com-gif-maker_26
+    21300054: ezgif.com-gif-maker_27
+    21300056: ezgif.com-gif-maker_28
+    21300058: ezgif.com-gif-maker_29
+    21300060: ezgif.com-gif-maker_30
+    21300062: ezgif.com-gif-maker_31
+    21300064: ezgif.com-gif-maker_32
+    21300066: ezgif.com-gif-maker_33
+    21300068: ezgif.com-gif-maker_34
+    21300070: ezgif.com-gif-maker_35
+    21300072: ezgif.com-gif-maker_36
+    21300074: ezgif.com-gif-maker_37
+    21300076: ezgif.com-gif-maker_38
+    21300078: ezgif.com-gif-maker_39
+    21300080: ezgif.com-gif-maker_40
+    21300082: ezgif.com-gif-maker_41
+    21300084: ezgif.com-gif-maker_42
+    21300086: ezgif.com-gif-maker_43
+    21300088: ezgif.com-gif-maker_44
+    21300090: ezgif.com-gif-maker_45
+    21300092: ezgif.com-gif-maker_46
+    21300094: ezgif.com-gif-maker_47
+    21300096: ezgif.com-gif-maker_48
+    21300098: ezgif.com-gif-maker_49
+    21300100: ezgif.com-gif-maker_50
+    21300102: ezgif.com-gif-maker_51
+    21300104: astronaut_spr_0
+    21300106: astronaut_spr_1
+    21300108: astronaut_spr_2
+    21300110: astronaut_spr_3
+    21300112: astronaut_spr_4
+    21300114: astronaut_spr_5
+    21300116: astronaut_spr_6
+    21300118: astronaut_spr_7
+    21300120: astronaut_spr_8
+    21300122: astronaut_spr_9
+    21300124: astronaut_spr_10
+    21300126: astronaut_spr_11
+    21300128: astronaut_spr_12
+    21300130: astronaut_spr_13
+    21300132: astronaut_spr_14
+    21300134: astronaut_spr_15
+    21300136: astronaut_spr_16
+    21300138: astronaut_spr_17
+    21300140: astronaut_spr_18
+    21300142: astronaut_spr_19
+    21300144: astronaut_spr_20
+    21300146: astronaut_spr_21
+    21300148: astronaut_spr_22
+    21300150: astronaut_spr_23
+    21300152: astronaut_spr_24
+    21300154: astronaut_spr_25
+    21300156: astronaut_spr_26
+    21300158: astronaut_spr_27
+    21300160: astronaut_spr_28
+    21300162: astronaut_spr_29
+    21300164: astronaut_spr_30
+    21300166: astronaut_spr_31
+    21300168: astronaut_spr_32
+    21300170: astronaut_spr_33
+    21300172: astronaut_spr_34
+    21300174: astronaut_spr_35
+    21300176: astronaut_spr_36
+    21300178: astronaut_spr_37
+    21300180: astronaut_spr_38
+    21300182: astronaut_spr_39
+    21300184: astronaut_spr_40
+    21300186: astronaut_spr_41
+    21300188: astronaut_spr_42
+    21300190: astronaut_spr_43
+    21300192: astronaut_spr_44
+    21300194: astronaut_spr_45
+    21300196: astronaut_spr_46
+    21300198: astronaut_spr_47
+    21300200: astronaut_spr_48
+    21300202: astronaut_spr_49
+    21300204: astronaut_spr_50
+    21300206: astronaut_spr_51
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: astronaut_spr_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2410
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d5630de154a4bd188129f858a01174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2410
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4f2088e5a9c4a9cb45fcaf1fd2a920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2410
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1f7acec49984d2186784948dfbd834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 2410
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc8508b640ab407b9afd7a2bba08d18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_4
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2410
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fed8260c45047bc8f83f6f63a4abf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2169
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3336243c677db4794846c174afe1264c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2169
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e9a580d7b6d41c98898f095322e2f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2169
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036ab0c54f8e941ada29f9ddf9cd622d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_8
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 2169
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3448b094d17dc4ebea0b56415abaf7f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_9
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2169
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1301e389b884f10a053b574f91cbcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1928
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b476427acc3dd4f8d85353579a7fa790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1928
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a053d082d5efb4586a4ca9776731220e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1928
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf083ffb9e584299a0207112f9d1c24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_13
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1928
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f447ec2d5fb8d4440827f01e040aabcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_14
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1928
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21151fd2d882b45a4b360809eccbe3c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1687
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488889bbcc82d43c2b1f527caa59bbc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1687
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e8b165ede6545128b28a1c8d3327a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_17
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1687
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd1e5cc4052f40cda1cd623a2264e21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_18
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1687
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db31f960f39424278883e6fe405a98d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_19
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1687
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3154f7cf54145c3a57c2a5db565399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1446
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1080d89b5c7c4cd8b57523bf863e485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1446
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023acc5182e3a4ac19589b32aed757d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_22
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1446
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb1d9de579c34d9c9d7875c033f5246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_23
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1446
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba73370cda7394aa09bbc7c454d3694c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_24
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1446
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d44e2576da44aec968d0385c684a4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1205
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fce25ecab8a44678864ad51388c3e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1205
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02cd4fb350b24aaebb401b42a3d157a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_27
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1205
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0958a8b4182fc483f962aad29d76dead
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_28
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1205
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e596afa5c0aae419e9cfcc3fe24383d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_29
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1205
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ddb1787a45a4fe58e70673550c951c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 964
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f5ba1b5787a4b82aa1a6daf4a40b52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_31
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 964
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b451508d8f4e2403982780f74d314c77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_32
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 964
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85ae8d4d8a984ddeb73f87c331558d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_33
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 964
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604ac236392de44d1bf40dda208ae44f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_34
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 964
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f9186faa82e46269c2169726fa9e45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 723
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffbfad24133e4c8f854160dcb4447fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_36
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 723
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdeef8b7e821484fa7e9a3881066c42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_37
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 723
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01324d92dfadb4fd0a210c993f1cfd97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_38
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 723
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69b35f7ff711412c9c41a2f5dc5eaa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_39
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 723
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d8f3b306c7f4e358e10f6ead13bb9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d53b7daca2354c4987c5bbeddae3877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 482
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc41031d6684448dd9b99378c0b5dfe4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_42
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 482
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a30c54638674e96b24c6d73a37ca09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_43
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 482
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a239181d1b6c849f385c11299378a88e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_44
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 482
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e521073a4c77c4837a6525296b76d24f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d27ce6042604713a782450afa485c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_46
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 241
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faf7ebf06e65451283e00dec686cef7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_47
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 241
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f789015ba7b4f58a40bd320c38735a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_48
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 241
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4b506047b6b4d339b70c65d44e79ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_49
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 241
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a70db738c4fc46cebceafc0977d42d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc18ad05e5f1e4e288d9aff17f704329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astronaut_spr_51
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5567fa129bde24491baa8646a25ee6b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 42790e0f95a70440ea6ceaf6682329c0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
